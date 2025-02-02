@@ -1,2 +1,7 @@
-<h2 class="text-3xl font-bold underline">{{title}}</h2>
-<p>Welcome to our e-commerce store!</p>
+<app-header></app-header>
+<div class="container mt-6">
+    <h2 class="text-3xl font-bold underline">{{title}}</h2>
+    <li *ngFor="let product of products; trackBy: trackByProductId">
+        {{ product.name }}
+    </li>
+</div>
