@@ -1,1 +1,1 @@
-Angular // ASP.NET Core // EF Core // C# // TypeScript // Rest API // Angular Material // Tailwind CSS // 
+Angular // ASP.NET Core // EF Core // C# // TypeScript // Rest API // Angular Material // Tailwind CSS // Sql Server // Redis
